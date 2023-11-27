@@ -8,22 +8,22 @@ header {
 
 }
 
-nav {
+/* nav {
   width: 743px;
   color: #000;
-  text-align: center;
+
   font-family: Inter;
   font-size: 88px;
   font-style: normal;
   font-weight: 500;
   line-height: 93px;
-}
+} */
 
-header.rasm {
+/* header.rasm {
   display: flex;
   align-items: center;
   justify-content: space-between;
   text-decoration: none;
   align-items: center;
   gap: 817px;
-}
+} */
